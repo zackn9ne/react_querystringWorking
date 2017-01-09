@@ -3,7 +3,7 @@ a basic querystring router in reactJS
 
 `$ mkdir projectName && cd projectName`
 
-`$npm init`
+`$ npm init`
 
 `$ npm i react react-dom react-router --save`
 
