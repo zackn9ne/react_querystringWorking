@@ -1,4 +1,4 @@
-# Basic React setup
+# Basic React setup (from new)
 a basic querystring router in reactJS
 
 `$ mkdir projectName && cd projectName`
@@ -14,6 +14,10 @@ a basic querystring router in reactJS
 `$ mkdir src/ && cd src/ && touch index.html App.js main.js && cd -`
 
 `$ npm start`
+
+# Basic React setup (from cloning this)
+
+since the .gitignore has node_modules you will have to get them using the recipes found in `package.json` by running `$ npm install`, thats it
 
 # Now onto the querystring
 
