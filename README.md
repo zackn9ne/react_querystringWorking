@@ -1,4 +1,4 @@
-# react_querystringWorking
+# Basic React setup
 a basic querystring router in reactJS
 
 `$ mkdir projectName && cd projectName`
@@ -14,4 +14,8 @@ a basic querystring router in reactJS
 `$ mkdir src/ && cd src/ && touch index.html App.js main.js && cd -`
 
 `$ npm start`
+
+# Now onto the querystring
+
+Once this is all running go ahead and try the `http://localhost:3333/#/?message=rick rock` your browser will interpret the spaces so don't worry (that much)
 
